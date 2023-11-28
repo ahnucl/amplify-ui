@@ -1,5 +1,11 @@
 # @aws-amplify/ui-react-liveness
 
+## 3.0.4
+
+### Patch Changes
+
+- [#4770](https://github.com/aws-amplify/amplify-ui/pull/4770) [`91ffe6329`](https://github.com/aws-amplify/amplify-ui/commit/91ffe6329a7106190c1e0bd1dd139a09b7f88a8f) Thanks [@thaddmt](https://github.com/thaddmt)! - fix: liveness fix customizing photosensitivity warning
+
 ## 3.0.3
 
 ### Patch Changes
